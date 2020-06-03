@@ -1,4 +1,3 @@
 #!/bin/bash
-echo $ ./0-current_working_directory
-\Users\Luisa\Desktop\TRABAJOS DE REDES 2014\Universidad Holberton\holberton-system_engineering-devops\0x00-shell_basics
-$
+$ pwd
+/c/Users/Luisa/Desktop/TRABAJOS DE REDES 2014/Universidad Holberton/holberton-system_engineering-devops
